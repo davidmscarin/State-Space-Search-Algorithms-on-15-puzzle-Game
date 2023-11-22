@@ -1,11 +1,6 @@
 This Python script implements the search algorithms Depth-First Search, Breadth-First Search, Iterative Deepening Depth-First Search, Greedy Search, and A* (with Misplaced and Manhattan heuristics).
 
-To run the program:
-
-- Make sure you are in the correct directory.
-- Have Python interpreter installed on your machine.
-- In the same directory, there are the files "15puzzle.py" and "input.txt".
-In the "input.txt" file, the text is structured as follows:
+In the "input.txt" file, the text should be structured as follows:
 ```
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 0
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 0 15
